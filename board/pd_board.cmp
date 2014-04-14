@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/04/2014 20:17:46
+
+BeginCmp
+TimeStamp = /534C0946;
+Reference = P1;
+ValeurCmp = Vin Gnd;
+IdModule  = 2PIN-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C0956;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C0965;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C0974;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C0983;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C0992;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C2504;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C250A;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C26AC;
+Reference = P9;
+ValeurCmp = CONN_2;
+IdModule  = TB-3,5x2;
+EndCmp
+
+EndListe
