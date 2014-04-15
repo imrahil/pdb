@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "14 apr 2014"
+Date "15 apr 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -326,12 +326,12 @@ $EndComp
 $Comp
 L VCC #PWR016
 U 1 1 534C1618
-P 3100 3250
-F 0 "#PWR016" H 3100 3350 30  0001 C CNN
-F 1 "VCC" H 3100 3350 30  0000 C CNN
-F 2 "" H 3100 3250 60  0000 C CNN
-F 3 "" H 3100 3250 60  0000 C CNN
-	1    3100 3250
+P 3100 3200
+F 0 "#PWR016" H 3100 3300 30  0001 C CNN
+F 1 "VCC" H 3100 3300 30  0000 C CNN
+F 2 "" H 3100 3200 60  0000 C CNN
+F 3 "" H 3100 3200 60  0000 C CNN
+	1    3100 3200
 	-1   0    0    1   
 $EndComp
 Wire Wire Line

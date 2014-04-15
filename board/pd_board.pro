@@ -1,6 +1,6 @@
-update=14/04/2014 21:47:06
+update=15/04/2014 10:43:06
 version=1
-last_client=pcbnew
+last_client=cvpcb
 [eeschema]
 version=1
 LibDir=
@@ -42,19 +42,14 @@ LibName29=contrib
 LibName30=valves
 [general]
 version=1
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.100000000000
-PadDrillOvalY=0.100000000000
-PadSizeH=0.500000000000
-PadSizeV=0.500000000000
+PadDrill=3.048000000000
+PadDrillOvalY=3.048000000000
+PadSizeH=4.064000000000
+PadSizeV=4.064000000000
 PcbTextSizeV=1.500000000000
 PcbTextSizeH=1.500000000000
 PcbTextThickness=0.300000000000
@@ -67,7 +62,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -86,3 +80,10 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=lib/2PIN_5mm
 LibName18=lib/conn_2x3_5
+LibName19=lib/OSHW-logo
+LibDir=
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
